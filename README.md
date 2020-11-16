@@ -8,7 +8,7 @@ Hello,
  
  # *Output :-*
 
-![](Output.png)
+![](Output.PNG)
 
  # *Contact Us :-*
 
