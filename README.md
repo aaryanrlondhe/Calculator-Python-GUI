@@ -2,7 +2,7 @@
 
 Hello, 
  
- This project is on a calculator using Python graphics. This can be used as a simple daily use calculator. I hope you like it. 
+ This project is on a Calculator using Python graphics. This can be used as a simple daily use calculator. I hope you like it. 
  
  Thank you !!
  
