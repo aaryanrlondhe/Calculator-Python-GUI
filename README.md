@@ -2,7 +2,23 @@
 
 Hello, 
  
- This project is on a Calculator using Python GUI. This can be used as a simple daily use calculator. I hope you like it. 
+ This project is on a Calculator using Python GUI.
+ 
+📌Features:-
+
+1. Additon
+
+2. Subraction
+
+3. Multiplication
+
+4. Division
+
+5. Decimal Points
+
+6. Delete
+
+I hope you like it. 
  
  Thank you !!
  
